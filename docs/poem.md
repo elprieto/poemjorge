@@ -72,9 +72,9 @@ any past time
 
 ### Own version
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:steelblue">Aware</span> the sleeping soul,  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:indigo">Aware</span> the sleeping soul,  
 
-<span style="color:steelblue">brighten the sense</span>
+<span style="color:indigo">brighten the sense</span>
  and wake up;  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;contemplating  
@@ -83,18 +83,18 @@ how life passes,
 
 how death approaches  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;so <span style="color:steelblue">unspeaking;</span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;so <span style="color:indigo">unspeaking;</span>
   
 
   
-<span style="color:steelblue">when, quickly leaves the enjoyment</span>
+<span style="color:indigo">when, quickly leaves the enjoyment</span>
   
 
-<span style="color:steelblue">how, after remembered,</span>  
+<span style="color:indigo">how, after remembered,</span>  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;it causes pain,  
 
-<span style="color:steelblue">how to our judgement</span>  
+<span style="color:indigo">how to our judgement</span>  
 
 any past time  
 
