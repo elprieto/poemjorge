@@ -83,10 +83,9 @@ how life passes,
 
 how death approaches  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;so <span style="color:chocolate">unspeaking;</span>
-  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;so <span style="color:chocolate">unspeaking;</span>  
+<br>
 
-  
 <span style="color:chocolate">when, quickly leaves the enjoyment</span>
   
 
