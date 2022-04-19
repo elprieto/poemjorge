@@ -1,90 +1,116 @@
-# Documentation
-{:.no_toc}
+# Coplas a la muerte de su padre
+## Coplets to his father's death
 
-Welcome to the Recovery Hub Edition template. To get started with your own edition click the "Use this template" button above to make a copy on your own GitHub account. To publish, you can enable GitHub Pages by going to your new repository's settings and in the "Pages" tab, choose your branch as the source and save. (Note, your repository must be public!) Github will then display the URL of your new site. 
+![JorgeManrique](https://media.theobjective.com/app/uploads/2021/02/13091548/jorge-manrique-poeta-revelacion.jpg)  
+> Our lives are the rivers that lead to the sea, that is dying
+---
+  
+Jorge Manrique was a Spanish poet, famous for _Couplets to his Father's Death_, it was the maximum example of cortisan liric from the XV century and one of the most important Spanish elegies.  
+Jorge Manrique was both a poet and a soldier, he fought along his father on Isabella I of Castile's side. He died after being fatally wounded  during an assault to the Garcimuñoz Castle.  
+  
+Written after his father's death (1476), _Couplets to his Father's Death_ was published in 1494, under the title _Coplas de Jorge Manrique a la muerte de su padre, el Maestre don Rodrigo_ (_Couplets of Jorge Manrique to his father's death, Master don Rodrigo_).  
+  
+It was one of the first examples that besides talking about terrenal life and eternal life, also mentioned fame and how it could give another dimension to the afterlife. Mentioning how life was being remembered by other people after death.  
+   
+The poem was written in Pie Quebrado (Broken-foot) style, a 12-line stanza having 4 triplets of 8-,8-, and 4-syllable lines and with a rhyme scheme of abcabcdefdef. 
+  
+## Editorial Rationale
+---
+jdofjao
+fjaodjfd
+djofaid
+---
+## Poem 
+---
+### Real Academia de la Lengüa Española
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Recuerde el alma dormida,  
+abive el seso y despierte  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;contemplando  
+cómo se pasa la vida,  
+cómo después de acordado  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;da dolor,  
+cómo a nuestro parescer  
+cualquiera tiempo pasado  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fue mejor.  
 
-In order for links to work, you will then need to change your `_config.yml` file (See "editing directly on github" below) ((TODO: add)) with the values of this new URL. 
+---
 
-If your URL is, for instance, `https://recoveryhub.github.io/edition_base/`
 
-then these will be your values (note the slash placement): 
+### Universidad de Valencia
 
-```
-baseurl: "/edition_base"
-url: "https://recoveryhub.github.io/"
-```
+Recuerde el alma dormida,  
+avive el seso y despierte  
+contemplando  
+cómo se pasa la vida,  
+cómo se viene la muerte  
+tan callando;  
+cuán presto se va el placer;  
+cómo después de acordado  
+da dolor;  
+cómo a nuestro parecer  
+cualquiera tiempo pasado  
+fue mejor.  
 
-Once GitHub regenerates your pages (it can take up to a couple of minutes but is usually pretty quick) you can see your site.
+----
 
-## Table of Contents
-{:.no_toc}
+### Henry Wadsworth Longfellow 
 
-* Table of Contents
-{:toc}
+Arouse the sleeping soul,  
+revive the brain and wake up  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;contemplating  
+how life passes  
+how death approaches  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;so quietly;  
+how quickly pleasure leaves;  
+how, after we recall it,  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;it gives us pain;  
+how it seems to us  
+any past time  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;was better.  
 
-## To Add
+---
 
-- Brief explanation of jekyll, minima, github pages
-  - File structure
-- some boilerplate text on recovery work
-- info on "upgrading"
-- Editing files via github
-- Working on files on your computer
-- text files and uses, file naming conventions (from here: https://github.com/recoveryhub/recoveryhub.github.io/blob/gh-pages/_docs/docs.markdown, we will need to decide what goes where)
+### Own version
 
-## Jekyll Version
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:steelblue">Aware</span> the sleeping soul,  
 
-Built with Jekyll 3.9.0
+<span style="color:steelblue">brighten the sense</span>
+ and wake up;  
 
-note: as of this publication, this is the latest version of Jekyll that 
-will work natively with GitHub Pages
-see here: for up to date details: https://pages.github.com/versions/
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;contemplating  
 
-If you need to look up documentation, the current docs on jekyllrb.com will not always work since they are for a newer version. Looking for the page you need at the 3.9.0 release tag may help https://github.com/jekyll/jekyll/tree/v3.9.0/docs
+how life passes,  
 
-## Config file
+how death approaches  
 
-The config file is meant for settings that affect your whole blog, values
-which you are expected to set up once and rarely edit after that. If you find
-yourself editing this file very often, consider using Jekyll's data files
-feature for the data you need to update frequently.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;so <span style="color:steelblue">unspeaking;</span>
+  
 
-If you need help with YAML syntax, here are some quick references for you: 
-https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
- https://learnxinyminutes.com/docs/yaml/
+  
+<span style="color:steelblue">when, quickly leaves the enjoyment</span>
+  
 
-### Site settings
-These are used to personalize your new site. If you look in the HTML files,
-you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-You can create any custom variable you would like, and they will be accessible
-in the templates via {{ site.myvariable }}.
+<span style="color:steelblue">how, after remembered,</span>  
 
-## Theme
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;it causes pain,  
 
-The Recovery Hub base theme is based off "Minima", a Jekyll theme for writers. The base theme adds additional styling and guidance for creating text based editions, as well as some useful starter templates for things like pagination and tables of contents. 
+<span style="color:steelblue">how to our judgement</span>  
 
-## Preparing files
+any past time  
 
-All markdown files must have either a # header at the top of the document (because GitHub Pages using jekyll-optional-front-matter as a dependency 5 https://github.com/benbalter/jekyll-optional-front-matter), or must declare a title: in the frontmatter. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;was better.  
 
-Files that don't do one of these things will be not be processed - that is, they won't be transformed into HTML or included in any of the listings, but they will be passed through as is. For more information see metadata, below. 
 
-### Markdown
+---
+### Biography sources
 
-The only text format currently supported is markdown. The site supports kramdown for special formatting, as well. 
+ [Biografía de Jorge Manrique](https://www.biografiasyvidas.com/biografia/m/manrique.htm)  
+   
+ [Biography of Jorge Manrique](https://www.britannica.com/biography/Jorge-Manrique)  
+### Poem sources
 
-Todo: either find sites to link to or explain more here
+[Real Academia de la Lengua Española](https://www.rae.es/sites/default/files/Coplas_a_la_muerte_de_su_padre.pdf)
 
-### Metadata
+[Universidad de Valencia](https://www.uv.es/ivorra/Literatura/Coplas.htm)
 
-Unless you directly specify metadata other than title (Author, date, etc) it will not appear for items in the metadata for the page and so will not be available for harvesters or citation programs (i.e. zotero)
-
-In order to add this, you will either need to define it in the frontmatter of each page or add the values in the _config.yml file. Frontmatter is a better approach if every item might be different, while the config is useful if an entire folder share the same values. 
-
-- `title:` If you have a markdown header at the top of your file, that will be taken as the "title" for the page. if you would like to set a different title, you can do so using the `title:` value
-- `creator:` (look up how this would work for multiple values)
-- `contributor:` contributors to the digital file, transcribers, encoders, etc.
-- `published_date:` (look to see how this would work)
-
-TODO: figure out other metadata that would need to be added to make different doc types save correctly in zotero, etc.
-
+[Classical poets](https://classicalpoets.org/2020/08/02/verses-on-the-death-of-his-father-coplas-por-la-muerte-de-su-padre-by-jorge-manrique/#/)
