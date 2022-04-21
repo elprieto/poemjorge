@@ -4,9 +4,21 @@
 ![JorgeManrique](https://media.theobjective.com/app/uploads/2021/02/13091548/jorge-manrique-poeta-revelacion.jpg)  
 > Our lives are the rivers that lead to the sea, that is dying
 ---
+## Biography  
+Jorge Manrique was born in a time around 1432, when his parents, Rodrigo Manrique and doña Mencía de Figueroa, married, and 1444, when Rodrigo Manrique being widower tried to marry again and had to ask for apostolic dispense thanks to his knight condition in _la Orden de Santiago_.
+Usually said to be born during the second half of 1439 and the first of 1440, year in which his father, Rodrigo Manrique, bought a _señorío_ (manor) from Paredes de Nava. 
   
-Jorge Manrique was a Spanish poet, famous for _Couplets to his Father's Death_, it was the maximum example of cortisan liric from the XV century and one of the most important Spanish elegies.  
-Jorge Manrique was both a poet and a soldier, he fought along his father on Isabella I of Castile's side. He died after being fatally wounded  during an assault to the Garcimuñoz Castle.  
+Jorge was a rather uncommon name, and it could possibly be given to him due to his father closeness with the Aragón Infants, which are King Fernando I of Aragón and Leonor of Albuquerque's children, being the reason that their kingdom's saint patron was St Jorge.
+
+Jorge Manrique's father was an influential man and had great power during his time, he died age sixty to cancer. Jorge's mother died when Jorge was still a child. His family was one of the most ancient noble families of Spain and possesed some of the most important titles of Castille, such as the Nájera Duchy, the Treviño County and the Aguilar De Campoo Marquisate.
+
+Rodrigo Manrique had a great influence in Jorge's life and tried to, through art and education, make Jorge as similar to him as possible. Jorge had military and art studies. He fought the Muslims, took a part in the raising against Enrique IV of Castille, fougt in Ajofrín in favour of Isabel, against Juana _la Beltraneja_ during the Castillian succession war.
+
+Jorge married doña Guiomar de Castañeda, per purely economic interest, and had two children Luis and Luisa.
+
+Jorge Manrique was a Spanish poet, famous for _Couplets to his Father's Death_, it was the maximum example of cortisan liric from the XV century and one of the most important Spanish elegies. In his poetry he liked to write about a normal life, out of the nobility and the castles
+
+Jorge Manrique was both a poet and a soldier, he fought along his father on Isabella I of Castile's side. He died after being fatally wounded  during an assault to the Garcimuñoz Castle and died during the spring of 1479.  
   
 Written after his father's death (1476), _Couplets to his Father's Death_ was published in 1494, under the title _Coplas de Jorge Manrique a la muerte de su padre, el Maestre don Rodrigo_ (_Couplets of Jorge Manrique to his father's death, Master don Rodrigo_).  
   
