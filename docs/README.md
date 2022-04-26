@@ -172,32 +172,33 @@ They pass away.
 
 ### Own version
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:chocolate">Aware</span> the sleeping soul,  
-
-<span style="color:chocolate">brighten the sense</span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aware the sleeping soul,  
+brighten the sense
  and wake up;  
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;contemplating  
-
 how life passes,  
-
 how death approaches  
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;so <span style="color:chocolate">unspeaking;</span>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;so unspeaking;  
 <br>
-
-<span style="color:chocolate">when, quickly leaves the enjoyment</span>
-  
-
-<span style="color:chocolate">how, after remembered,</span>  
-
+when, quickly leaves the enjoyment
+how, after remembered,  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;it causes pain,  
-
-<span style="color:chocolate">how to our judgement</span>  
-
+how to our judgement  
 any past time  
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;was better.  
+  
+Then, if we see the present  
+as a point that is already gone  
+and done,  
+if we judge wisely  
+we will give what what has not come  
+as done.  
+Do not fool yourself, no,  
+thinking that the things must last  
+what you think  
+The things thy saw are gone,  
+for everything must end  
+in that same way.  
   
 Then, if we see the present  
 as a point that is already gone  
