@@ -199,20 +199,6 @@ what you think
 The things thy saw are gone,  
 for everything must end  
 in that same way.  
-  
-Then, if we see the present  
-as a point that is already gone  
-and done,  
-if we judge wisely  
-we will give what what has not come  
-as done.  
-Do not fool yourself, no,  
-thinking that the things must last  
-what you think  
-The things thy saw are gone,  
-for everything must end  
-in that same way.  
-
 
 ---
 ### Biography sources
