@@ -123,50 +123,50 @@ cualquiera tiempo pasado
 fue mejor.  
 
 \[II\]
-
-Pues si vemos lo presente
-cómo en un punto se es ido
-y acabado,
-si juzgamos sabiamente,
-daremos lo no venido
-por pasado.
-No se engañe nadie, no,
-pensando que ha de durar
-lo que espera
-más que duró lo que vio,
-pues que todo ha de pasar
-por tal manera
+  
+Pues si vemos lo presente  
+cómo en un punto se es ido  
+y acabado,  
+si juzgamos sabiamente,  
+daremos lo no venido  
+por pasado.  
+No se engañe nadie, no,  
+pensando que ha de durar  
+lo que espera  
+más que duró lo que vio,  
+pues que todo ha de pasar  
+por tal manera  
 
 ---
 
 ### Henry Wadsworth Longfellow 
 
-O let the soul her slumbers break,
+O let the soul her slumbers break,  
 Let thought be quickened, and awake  
 Awake to see 
 How soon this life is past and gone,  
 And death comes softly stealing on,  
 How silently!  
-Swiftly our pleasures glide away,
-Our hearts recall the distant day
-With many sighs;
-The moments that are speeding fast
-We heed not, but the past,—the past,
-More highly prize.
+Swiftly our pleasures glide away,  
+Our hearts recall the distant day  
+With many sighs;  
+The moments that are speeding fast  
+We heed not, but the past,—the past,  
+More highly prize.  
 
-Onward its course the present keeps,
-Onward the constant current sweeps,
-Till life is done;
-And, did we judge of time aright,
-The past and future in their flight
-Would be as one.
-
-Let no one fondly dream again,
-That Hope and all her shadowy train
-Will not decay;
-Fleeting as were the dreams of old,
-Remembered like a tale that's told,
-They pass away.
+Onward its course the present keeps,  
+Onward the constant current sweeps,  
+Till life is done;  
+And, did we judge of time aright,  
+The past and future in their flight  
+Would be as one.  
+  
+Let no one fondly dream again,  
+That Hope and all her shadowy train  
+Will not decay;  
+Fleeting as were the dreams of old,  
+Remembered like a tale that's told,  
+They pass away.  
 
 ---
 
@@ -198,19 +198,19 @@ how death approaches
 any past time  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;was better.  
-
-Then, if we see the present
-as a point that is already gone
-and done,
-if we judge wisely
-we will give what what has not come
-as done.
-Do not fool yourself, no,
-thinking that the things must last
-what you think
-The things thy saw are gone,
-for everything must end
-in that same way.
+  
+Then, if we see the present  
+as a point that is already gone  
+and done,  
+if we judge wisely  
+we will give what what has not come  
+as done.  
+Do not fool yourself, no,  
+thinking that the things must last  
+what you think  
+The things thy saw are gone,  
+for everything must end  
+in that same way.  
 
 
 ---
