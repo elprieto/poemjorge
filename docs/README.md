@@ -71,8 +71,11 @@ My focus on the translation was to keep the original meaning of the poem while n
 
 ---
 
-[I]
+
 ### Real Academia de la Lengüa Española
+
+[I]
+
 &nbsp; Recuerde el alma dormida,  
 abive el seso y despierte  
 &nbsp; contemplando  
@@ -97,6 +100,7 @@ porque todo ha de pasar
 &nbsp; por tal manera.  
 
 ### Universidad de Valencia
+
 [I]
 Recuerde el alma dormida,  
 avive el seso y despierte  
@@ -125,6 +129,7 @@ pues que todo ha de pasar
 por tal manera  
 
 ### Henry Wadsworth Longfellow
+
  [I]
 O let the soul her slumbers break,  
 Let thought be quickened, and awake  
