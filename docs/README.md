@@ -73,56 +73,56 @@ My focus on the translation was to keep the original meaning of the poem while n
 
 [I]
 ### Real Academia de la Lengüa Española
-        Recuerde el alma dormida,
-abive el seso y despierte
-        contemplando
-cómo se pasa la vida,
-cómo después de acordado
-        da dolor,
-cómo a nuestro parescer
-cualquiera tiempo pasado
-        fue mejor.
+&nbsp; Recuerde el alma dormida,  
+abive el seso y despierte  
+&nbsp; contemplando  
+cómo se pasa la vida,  
+cómo después de acordado  
+&nbsp; da dolor,  
+cómo a nuestro parescer  
+cualquiera tiempo pasado  
+&nbsp; fue mejor.  
 [II]
-      Y pues vemos lo presente
-cómo en un punto se es ido
-        y acabado,
-si juzgamos sabiamente,
-daremos lo no venido
-        por pasado.
-No se engañe nadie, no,
-pensando que a de durar
-        lo que espera
-más que duró lo que vio,
-porque todo ha de pasar
-        por tal manera.
+&nbsp; Y pues vemos lo presente  
+cómo en un punto se es ido  
+&nbsp; y acabado,  
+si juzgamos sabiamente,  
+daremos lo no venido  
+&nbsp; por pasado.  
+No se engañe nadie, no,  
+pensando que a de durar  
+&nbsp; lo que espera  
+más que duró lo que vio,  
+porque todo ha de pasar  
+&nbsp; por tal manera.  
 
 ### Universidad de Valencia
 [I]
-Recuerde el alma dormida,
-avive el seso y despierte
-contemplando
-cómo se pasa la vida,
-cómo se viene la muerte
-tan callando;
-cuán presto se va el placer;
-cómo después de acordado
-da dolor;
-cómo a nuestro parecer
-cualquiera tiempo pasado
-fue mejor.
+Recuerde el alma dormida,  
+avive el seso y despierte  
+contemplando  
+cómo se pasa la vida,  
+cómo se viene la muerte  
+tan callando;  
+cuán presto se va el placer;  
+cómo después de acordado  
+da dolor;  
+cómo a nuestro parecer  
+cualquiera tiempo pasado  
+fue mejor.  
 [II]
-Pues si vemos lo presente
-cómo en un punto se es ido
-y acabado,
-si juzgamos sabiamente,
-daremos lo no venido
-por pasado.
-No se engañe nadie, no,
-pensando que ha de durar
-lo que espera
-más que duró lo que vio,
-pues que todo ha de pasar
-por tal manera
+Pues si vemos lo presente  
+cómo en un punto se es ido  
+y acabado,  
+si juzgamos sabiamente,  
+daremos lo no venido  
+por pasado.  
+No se engañe nadie, no,  
+pensando que ha de durar  
+lo que espera  
+más que duró lo que vio,  
+pues que todo ha de pasar  
+por tal manera  
 
 ### Henry Wadsworth Longfellow
  [I]
@@ -159,32 +159,35 @@ They pass away.
 
 Aware the sleeping soul,  
 brighten the sense and wake up;  
-&nbsp;contemplating  
+&nbsp; contemplating  
 how life passes,  
 how death approaches  
-&nbsp;so unspeaking;  
+&nbsp; so unspeaking;  
 <br>
 when, quickly leaves the enjoyment how,  
 after remembered,  
-&nbsp;it causes pain,  
+&nbsp; it causes pain,  
 how to our judgement  
 any past time  
-&nbsp;was better.  
+&nbsp; was better.  
 <br>
 [II]
 Then, if we see the present  
 as a point that is already gone  
-<br>and done,  
+and done,  
+<br>
 if we judge wisely  
 we will give what has not come  
-<br>as done.  
+as done.  
 <br>
 Do not fool yourself, no,  
 thinking that the things must last  
-<br>what you think  
+what you think  
+<br>
 The things thy saw are gone,  
 for everything must end  
-<br>in that same way.  
+in that same way.  
+<br>
 
 
 
