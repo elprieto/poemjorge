@@ -3,7 +3,9 @@
 
 ![JorgeManrique](https://media.theobjective.com/app/uploads/2021/02/13091548/jorge-manrique-poeta-revelacion.jpg)  
 > Our lives are the rivers that lead to the sea, that is dying
+<br>
 ---
+<br>
 ## Biography  
 
 Jorge Manrique was born in a time around 1432, when his parents, Rodrigo Manrique and doña Mencía de Figueroa, married, and 1444, when Rodrigo Manrique, being a widower, tried to marry again and had to ask for apostolic dispense thanks to his knight condition in la Orden de Santiago. Manrique is usually said to be born during the second half of 1439 or the first of 1440, the year in which his father, Rodrigo Manrique, bought a señorío (manor) from Paredes de Nava.  
